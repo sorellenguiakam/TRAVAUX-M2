@@ -4,7 +4,7 @@ Ce dépôt regroupe les travaux et ressources réalisés durant le Master 2 : ra
 
 ## Contenu actuel
 - README.md — fichier d'accueil et documentation du dépôt (vous êtes ici).
-- Stage_M2/ — dossier prévu pour le projet de stage (code, rapport, données, documentation).
+- Stage_M2 — dossier prévu pour le projet de stage (code, rapport, données, documentation).
 
 ## Objectifs du dépôt
 - Centraliser les livrables et le code produits pendant le M2.
